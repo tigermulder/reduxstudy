@@ -1,0 +1,33 @@
+
+[
+  {
+    "text" : "빨래하기",
+    "state" : true,
+    "id" : 1
+  },
+  {
+    "text" : "청소하기",
+    "state" : false,
+    "id" : 2
+  },
+  {
+    "text" : "운동하기",
+    "state" : true,
+    "id" : 3
+  },
+  {
+    "text" : "일기쓰기",
+    "state" : true,
+    "id" : 4
+  },
+  {
+    "text" : "독서하기",
+    "state" : false,
+    "id" : 5
+  },
+  {
+    "text" : "컴퓨터하기",
+    "state" : false,
+    "id" : 6
+  }
+]
